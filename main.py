@@ -20,7 +20,7 @@ async def list(ctx):
 async def repeat(ctx, content):
     await ctx.send(content)
 
-client.run("NzUzMDE4ODA1MjQ4MTk2NzQx.X1gFaQ.ZDXpWKniQXfWZyeFyqrOynx8TSE")
+client.run("No Token For You >:)")
 
 keep_alive.keep_alive()
 
